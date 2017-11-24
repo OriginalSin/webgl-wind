@@ -1,3 +1,5 @@
+ [Test](./demo/wind.html)
+ 
 ## WebGL Wind — [Demo](https://mapbox.github.io/webgl-wind/demo/)
 
 A WebGL-powered visualization of wind power.
