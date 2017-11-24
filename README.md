@@ -1,4 +1,4 @@
- [Test](./demo/wind.html)
+ [Test](https://originalsin.github.io/webgl-wind/demo/wind.html)
  
 ## WebGL Wind — [Demo](https://mapbox.github.io/webgl-wind/demo/)
 
