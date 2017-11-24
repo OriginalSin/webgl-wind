@@ -1,5 +1,7 @@
  [Test](https://originalsin.github.io/webgl-wind/demo/wind.html)
  [Test1](https://originalsin.github.io/webgl-wind/demo/windworld.html)
+ [Test2](https://originalsin.github.io/webgl-wind/demo/windworld2.html)
+ [Test3](https://originalsin.github.io/webgl-wind/demo/windworld3.html)
  
 ## WebGL Wind — [Demo](https://mapbox.github.io/webgl-wind/demo/)
 
